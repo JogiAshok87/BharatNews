@@ -27,4 +27,4 @@ Utilize Bootstrap components and custom styling.
 Pay attention to typography, spacing, and layout to achieve a classic newspaper look.
 
 Navigation
-Implement routing between the Home Screen and the Article Detail Screen using React Router.
+Implement routing between the Home Screen and the Article Detail Screen using React Router."# BharatNews" 
