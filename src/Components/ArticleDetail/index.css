@@ -1,0 +1,38 @@
+.article-detail-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 5px;
+    width: 100%;
+    border-radius: 5px;
+  }
+  .article-detail-container img {
+    height: 250px;
+    width: 300px;
+  }
+  .para {
+    color: #333;
+  }
+  .card-content-heading {
+    font-weight: bold;
+    color: black;
+  }
+  
+  .article-detail-container a:hover {
+    background-color: #333;
+  }
+  .btn {
+    background-color: #17202a;
+    padding: 16px;
+    color: #fff;
+    font-family: 'Roboto';
+    font-weight: 500;
+    width: 140px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 35px;
+    font-size: 16px;
+    cursor: pointer;
+  }

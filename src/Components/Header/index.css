@@ -1,0 +1,38 @@
+.navbar-container {
+    background-color: #202020;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .nav-content {
+    display: flex;
+  }
+  .website-logo {
+    
+    margin-top: 10px;
+    margin-left: 100px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 5px;
+  }
+  .header-list-items {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-right: 125px;
+  }
+  .home {
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 500;
+  }
+  
+  .jon-heading {
+    margin-left: 40px;
+  }
+  .link-item {
+    text-decoration: none;
+  }
+  
